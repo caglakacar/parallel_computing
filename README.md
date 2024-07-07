@@ -1,2 +1,1 @@
-# parallel_computing
-parallel_computing
+Parallel Computing Final Project
